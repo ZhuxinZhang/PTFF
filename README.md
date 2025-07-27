@@ -1,6 +1,7 @@
 # PTFF
 
-This repository contains the code and data associated with the paper:
+This repository contains the code associated with the paper:
+
 🚀 Improving Control Smoothness in Unmanned Surface Vehicle Path-Following: A Fourier-Enhanced Deep Reinforcement Learning Approach in the Presence of Observation Noises
 Authors: Zhuxin Zhang et al.
 Paper: Codes will be available upon acceptance of the manuscript.
